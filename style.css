@@ -1,0 +1,51 @@
+
+iframe {
+	float: center;
+  display: block;
+margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: center;
+}
+
+h2 {
+    margin: auto;
+  border-bottom: 2px solid #F1F1F1;
+  width: 30%;
+  padding-bottom: 20px;
+
+
+    color: black;
+    font-kerning: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 50px;
+    letter-spacing: 0.021em;
+    line-height: 1.2;
+    text-align: center
+}
+
+.foot {
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	font-size: 20px;
+	letter-spacing: -1px;
+	text-align: center;
+  word-spacing: 0.8em;
+  text-justify: inter-word;
+}
+
+div.horizontalgap {
+  float: center;
+  overflow: hidden;
+  height: 300px;
+  width: 50px;
+}
+
+.btn-primary { 
+ background-color: #970100;
+}
